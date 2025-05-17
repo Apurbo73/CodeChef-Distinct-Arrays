@@ -1,1 +1,4 @@
 ﻿## CodeChef Distinct Arrays
+
+
+## Approach:
