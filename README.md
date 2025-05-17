@@ -8,4 +8,4 @@ This C++ program calculates a special result based on a given array for multiple
 
 The result is calculated using modular arithmetic with a modulus value of `998244353` to prevent overflow and keep results manageable. The final result is printed for each test case. This logic can be interpreted as counting how many valid permutations or arrangements exist under a certain constraint where each element must be greater than or equal to its index in the sorted list. If any `A[i] - i` is zero or negative, the whole product becomes zero, indicating that no valid arrangement is possible.
 
-## Array:
+### Array:
