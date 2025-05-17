@@ -63,4 +63,3 @@ for (int i = 0; i < 5; i++) {
 }
 ```
 
-Would you like to explore **multidimensional arrays**, **dynamic arrays (like `vector`)**, or **array-related coding problems** next?
