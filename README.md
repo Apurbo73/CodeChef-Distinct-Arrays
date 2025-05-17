@@ -1,1 +1,1 @@
-﻿# CodeChef Distinct Arrays
+﻿## CodeChef Distinct Arrays
